@@ -22,7 +22,7 @@ p {
   font-family: Futura, Arial
 }
 
-a {
+.hrefo, .hre {
   color: #ff4d4d
 }
 
@@ -69,14 +69,63 @@ footer {
   text-align: center;
 }
 
-div{
-  width: 478px
+.gfm-embed{
+  width: 470px
 }
 
-body{
-  background-color: yelklow
-}
-
-div{
+.gfm-embed{
   border-radius: 10px
+}
+
+.gfm-embed{
+  margin: 0 auto;
+}
+
+h2:hover{
+  color: #7ed6df
+}
+
+h2:hover{
+  transition: 0.5s;
+}
+
+.ScriptHeader{
+  background-color: #6a4aed
+}
+
+.ScriptHeader{
+  width: 140px
+}
+
+.ScriptHeader{
+  height: 40px
+}
+
+.ScriptHeader{
+  border-radius: 3px
+}
+
+.Pulsante{
+  font-family: Raleway, Futura;
+}
+
+.Pulsante{
+  font-size: 14px
+}
+
+.Pulsante a{
+  text-decoration: none;
+}
+
+.insta{
+  width: 55px
+}
+
+.insta{
+  height: 55px
+}
+
+
+body {
+  background-color: #f6e58d
 }
