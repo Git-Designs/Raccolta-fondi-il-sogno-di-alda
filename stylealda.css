@@ -1,13 +1,17 @@
 h2 {
-  font-family: Futura, Arial
+  font-family: "Brandon Grotesque", Arial
 }
 
 h2 {
-  color: #2d3436
+  color: #6a4aed
 }
 
 h3 {
   font-family: Futura, Arial
+}
+
+h3{
+  color: #222222
 }
 
 p {
@@ -35,14 +39,10 @@ p {
 }
 
 h3 {
-  color: #4b4b4b
+  font-size: 20px
 }
 
 p {
-  font-size: 27px
-}
-
-h3 {
   font-size: 27px
 }
 
@@ -67,4 +67,16 @@ footer {
 
 footer {
   text-align: center;
+}
+
+div{
+  width: 478px
+}
+
+body{
+  background-color: yelklow
+}
+
+div{
+  border-radius: 10px
 }
